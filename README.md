@@ -17,7 +17,7 @@ enough to get you started. Here are some known limitations:
 ## Usage
 
 1. Backup your database
-2. [Install pandoc](http://pandoc.org/installing.html)
+2. [Install pandoc](http://pandoc.org/installing.html). Look at the `setup.sh` to use on the server.
 3. Install the task:
 
     ```sh
