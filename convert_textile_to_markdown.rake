@@ -100,6 +100,7 @@ def convert_textile_to_markdown(textile, what)
   command = [
     'pandoc',
     '--eol=lf',
+    '--atx-headers',
     '--wrap=preserve',
     '-f',
     'textile',
